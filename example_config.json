@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "bonus_message": "🎁 Спасибо за отзыв! Вот ваш бонус: {bonus}",
+    "bonus_by_stars": {
+        "5": "Промокод: SUPER5 на 10% скидку",
+        "4": "Промокод: GOOD4 на 5% скидку",
+        "3": "Спасибо за отзыв!",
+        "2": "Спасибо за отзыв!",
+        "1": "Спасибо за отзыв!"
+    },
+    "min_stars_for_bonus": 3,
+    "send_only_on_new": true,
+    "telegram_notify": true
+}
